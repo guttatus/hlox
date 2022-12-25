@@ -25,7 +25,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      Hlox.Lexer
   other-modules:
       Paths_hlox
   hs-source-dirs:
